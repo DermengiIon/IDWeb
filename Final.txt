@@ -1,1 +1,1 @@
-Dermengi Ion
+Dermengi Ion, Să se soluționeze un conflict dintre 2 branch-uri.
